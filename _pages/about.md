@@ -6,7 +6,7 @@ subtitle: PhD student at Politecnico di Torino, in co-tutelle with KTH, Stockhol
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Politecnico di Torino</p>
