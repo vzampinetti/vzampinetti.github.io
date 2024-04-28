@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - toyo97
+  - Lagergren-Lab
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Lagergren-Lab/victree
+  - Lagergren-Lab/treesampling
+  - toyo97/statistical-models-r
