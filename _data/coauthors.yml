@@ -1,3 +1,7 @@
 "harald":
   - firstname: ["Harald Melin", "H.M."]
     url: https://haraldmelin.github.io
+
+"jens":
+  - firstname: ["Jens Lagergren", "J.L."]
+    url: https://lagergrenlab.org/
