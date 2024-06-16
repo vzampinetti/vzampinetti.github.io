@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: Politecnico di Torino, Italy
-      year: 2021
+      year: 2021 - now
       description:
         - co-tutelle with Royal Institute of Technology (KTH), Stockholm
         - title: Research fields
@@ -34,7 +34,7 @@
       institution: Memorial Sloan Kettering Cancer Center, New York City
       year: 2023
       description:
-        - WGS data analysis on SOTA tech DLP+
+        - WGS data analysis and algorithm development on SOTA tech DLP+
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
