@@ -8,26 +8,27 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Politecnico di Torino</p>
-    <p>Corso Duca degli Abruzzi 24</p>
-    <p>Turin, Italy 10129</p>
+  more_info:
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Hi there! I am a PhD student in probabilistic modeling and computational biology at
+[Politecnico di Torino](https://www.polito.it/) in Italy, under a co-tutelle
+with [KTH](https://www.kth.se), Stockholm.
+
+Together with my advisor [Jens Lagergren](https://lagergrenlab.org/)
 I develop machine learning methods and algorithms with a mathematical and statistical approach,
 and test their application to DNA sequencing data (both single-cell and bulk) from patients with cancer.
-My predominantly engineering background, with a focus on data science, merges with my passion
-for probabilistic models. My research involves the definition and analysis of Bayesian inference
-algorithms such as Variational Inference, as well as maximum likelihood methods (EM), which enable
-the reconstruction of cancer evolutionary trees from high-dimensional and inherently noisy data.
-Additionally, I develop efficient methods for sampling trees and generate synthetic data for testing
-implementations before the application on real data.
+We use [VI](https://wikipedia.org/wiki/Variational_Bayesian_methods) and [EM](https://wikipedia.org/wiki/Expectation-maximization_algorithm)
+methods to infer the evolutionary history of cancer cells from copy-number profiles.
 
-As a part of my PhD student plan, I also assisted for two consecutive years in teaching of the MSc course
-[Statistical Models](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01VJWNG&p_a_acc=2024&p_header=S&p_lang=IT&multi=N),
-for which I wrote a book about the basics of modern _R_ in statistical analysis,
-fully available [here](https://toyo97.github.io/statistical-models-r/).
+As a part of my PhD student plan, I also assisted Prof. [Mauro
+Gasparini](https://www.polito.it/personale?p=002692) for two consecutive years
+in teaching of the MSc course [Statistical
+Models](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01VJWNG&p_a_acc=2024&p_header=S&p_lang=IT&multi=N),
+for which I wrote a book about the basics of modern _R_ in statistical
+analysis, fully available
+[here](https://toyo97.github.io/statistical-models-r/).
