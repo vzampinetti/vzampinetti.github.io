@@ -8,4 +8,3 @@ related_posts: false
 Taking part at the [Bertinoro Computational Biology Meeting](https://bcb24.bici.events/).
 Very excited to present our new work in progress [Cellmates]() and attend
 many interesting talks on the latest research in the field.
-
