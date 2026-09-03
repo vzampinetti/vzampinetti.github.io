@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - Lagergren-Lab/victree
+  - Lagergren-Lab/cellmates
   - Lagergren-Lab/treesampling
   - toyo97/statistical-models-r
   - toyo97/rgbd-domain-adaptation

@@ -52,7 +52,7 @@
   pages = {110481},
   year = {2025},
   issn = {0167-7152},
-  doi = {https://doi.org/10.1016/j.spl.2025.110481},
+  doi = {10.1016/j.spl.2025.110481},
   url = {https://www.sciencedirect.com/science/article/pii/S0167715225001269},
   author = {Vittorio Zampinetti and Harald Melin and Jens Lagergren},
   keywords = {Random tree sampling, Bayesian inference, Random walk, Wilson’s algorithm},
@@ -65,3 +65,28 @@
   code = {https://github.com/Lagergren-Lab/treesampling},
   html = {https://doi.org/10.1016/j.spl.2025.110481},
 }
+
+@article{zampinetti2026cellmates,
+  title={Cellmates: a method for single-cell phylogeny reconstruction with proper evolutionary distances from copy numbers},
+  journal={bioRxiv},
+  author={Zampinetti, Vittorio and Melin, Harald and Abdolhamdi, Marzie and Lagergren, Jens},
+  year={2026},
+  doi={not available yet},
+  keywords={copy numbers, tumor phylogeny, single-cell DNA, distance-based phylogeny},
+  note={Also presented at Bertinoro Computational Biology Meeting 2026, Italy},
+  code={https://github.com/Lagergren-Lab/cellmates},
+}
+
+@article{zampinetti2026srnj,
+	author = {Zampinetti, Vittorio and Melin, Harald and Hallin, Alva and Lagergren, Jens},
+	title = {Scalable and robust phylogenetic tree reconstruction from copy-number data with Sparse Rooted Neighbor Joining},
+	elocation-id = {2026.07.30.739152},
+	year = {2026},
+	doi = {10.64898/2026.07.30.739152},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Background Phylogenetic tree reconstruction from single cell data based on copy-number alterations (CNAs) is an important problem in cancer genomics. Methods have been developed to address this problem by computing pairwise distances between copy-number profiles and employing a tree reconstruction algorithm. Despite the tight interplay between distance estimation and tree reconstruction, these two steps are often treated as separate problems, with the choice of the reconstruction algorithm receiving little attention. Most methods rely on classical Neighbor Joining (NJ), an algorithm designed for unrooted phylogenies that does not account for the fixed diploid root inherent to copy-number evolution.Results We identify the Deepest Least Common Ancestor NJ (DLCA{\textendash}NJ), not previously applied in this context, as the appropriate algorithm for phylogenies from copy-number data. By leveraging the known diploid root, it consistently outperforms standard NJ on simulated benchmarks across all evaluated metrics, with the most pronounced improvement in root placement accuracy. Building on these findings, we introduce Sparse Rooted Neighbor Joining (SRNJ), a scalable adaptation of DLCA{\textendash}NJ. SRNJ significantly reduces running time while trading off only a minor loss in accuracy. We provide theoretical and empirical evidence of robustness to mutation rate using both synthetic and real biological datasets.Conclusions Rooted NJ variants offer a principled way to exploit the known diploid root when reconstructing phylogenies from copy-number data, and SRNJ extends this advantage to datasets whose size places the full distance matrix out of reach. The gains are clearest where distances are reliable, as on simulated data, while on real data accuracy appears to be constrained by distance estimation rather than by the reconstruction algorithm, leaving room for improvement as callers advance.Competing Interest StatementThe authors have declared no competing interest.Swedish Research Council, https://ror.org/03zttf063, 2022-06725},
+	url = {https://www.biorxiv.org/content/early/2026/07/31/2026.07.30.739152},
+	journal = {bioRxiv},
+	pdf = {https://www.biorxiv.org/content/early/2026/07/31/2026.07.30.739152.full.pdf},
+}
+
