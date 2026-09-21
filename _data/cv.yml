@@ -13,17 +13,19 @@
   contents:
     - title: PhD
       institution: Politecnico di Torino, Italy
-      year: 2021 - now
+      year: 2021 - 2026
       description:
         - co-tutelle with Royal Institute of Technology (KTH), Stockholm
         - title: Research fields
           contents:
             - Computational biology, cancer genomics
             - Bayesian methods, variational inference and random tree sampling
+            - Thesis titled "Single-cell tumor phylogenetics"
     - title: MSc
       institution: Politecnico di Torino
       year: 2019 - 2021
       description:
+        - Awarded with the Alta Scuola Politecnica (excellence program) scholarship
         - Data Science and Engineering (computer engineering division)
         - Thesis at KTH, Stockholm
 
